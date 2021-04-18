@@ -1,0 +1,21 @@
+form {
+    border: 1px solid #545454;
+    border-radius: 25px;
+    padding: 40px;
+    background-color: rgba(187, 44, 0, 0.493);
+}
+
+input {
+    padding: 5px 20px;
+    width: 100%;
+    line-height: 22px;
+    margin: 10px 0;
+    //background-color: rgba(32, 178, 171, 0.25);
+    color: rgb(187, 44, 0);
+    font-size: 15px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    .submit :hover {
+        background-color: lightsteelblue;
+    }
+}
